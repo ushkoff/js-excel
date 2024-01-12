@@ -1,4 +1,4 @@
-# Pure JavaScript Excel
+## Pure JavaScript Excel analogue
 
 `npm i`
 
