@@ -8,7 +8,7 @@ module.exports = {
   env: {
     browser: true,
     node: true,
-    es6: true,
+    es6: true
   },
   extends: ['eslint:recommended', 'google'],
   rules: {
@@ -23,4 +23,5 @@ module.exports = {
     'arrow-parens': 'off',
     'operator-linebreak': 'off'
   },
+    plugins: ['jest']
 }
