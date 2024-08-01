@@ -1,7 +1,7 @@
-## Pure JavaScript Excel analogue
+## Pure JavaScript Excel/Google Sheets
 
 `npm i`
 
 `npm run start`
 
-`npm run build`
+![Alt text](preview.png?raw=true "Table previewf")
